@@ -20,4 +20,4 @@ To run the model, follow these steps:
     ```bash
     cd VAE-data-generation
     ```
-https://github.com/djayepro3/VAE-data-generation
+
