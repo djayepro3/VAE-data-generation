@@ -4,7 +4,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 - Generated synthetic data with a Gaussian Mixture Model. Designed encoder and decoder networks.
-- Used the reparameterization trick for training stability.
+- Used the reparameterization trick (Kingma & Welling) for training stability.
 - Trained with ELBO and KL-Divergence. Evaluated through data reconstruction and new sample generation.
 
 
